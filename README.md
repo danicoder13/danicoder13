@@ -55,7 +55,7 @@
 
 ### Cybersecurity & Ethical Hacking
 
-![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=flat-square&logo=linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1E90FF?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
