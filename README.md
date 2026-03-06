@@ -62,7 +62,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-### 🌐 Idiomas
+### 🌐 Languages
 
 <img src="https://flagcdn.com/w40/gb.png" width="30"/> **English** — C1  
 <img src="https://flagcdn.com/w40/es.png" width="30"/> **Spanish** — Native
