@@ -64,8 +64,8 @@
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="20px"> </picture> Idiomas
 
-<img src="https://flagcdn.com/w40/gb.png" width="30"/> **Inglés** — Intermedio  
-<img src="https://flagcdn.com/w40/es.png" width="30"/> **Español** — Nativo
+<img src="https://flagcdn.com/w40/gb.png" width="30"/> **English** — C1  
+<img src="https://flagcdn.com/w40/es.png" width="30"/> **Spanish** — Native
 
 <br>
 
