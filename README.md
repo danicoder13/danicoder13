@@ -64,8 +64,8 @@
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="20px"> </picture> Idiomas
 
-![Español](https://img.shields.io/badge/Español-Nativo-red?style=flat-square)
-![Inglés](https://img.shields.io/badge/Inglés-Intermedio-blue?style=flat-square)
+<img src="https://flagcdn.com/w40/gb.png" width="30"/> **Inglés** — Intermedio  
+<img src="https://flagcdn.com/w40/es.png" width="30"/> **Español** — Nativo
 
 <br>
 
