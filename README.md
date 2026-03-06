@@ -62,6 +62,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="20px"> </picture> Idiomas
+
+![Español](https://img.shields.io/badge/Español-Nativo-red?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-Intermedio-blue?style=flat-square)
+
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
