@@ -59,6 +59,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-4B275F?style=flat-square&logo=hashcat&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
