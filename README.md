@@ -52,10 +52,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-<br>
-![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=flat-square)
+
+### Cybersecurity & Ethical Hacking
+
+![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
